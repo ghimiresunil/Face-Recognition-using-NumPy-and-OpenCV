@@ -18,11 +18,13 @@ def get_encoded_faces():
                 encoded[f.split(".")[0]] = encoding
     return encoded
 
+
 # encode a face given the file name
 def unknown_image_encoded(img):
     face = fr.load_image_file("faces/" + img)
     encoding = fr.face_encodings(face)[0]
     return encoding
+
 
 # finding all the faces images and label that images
 def classify_face(im):
@@ -56,4 +58,7 @@ def classify_face(im):
         cv2.imshow('Video', img)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             return face_names
-print(classify_face("test/test_mark_zuckerberg.jpg"))
+
+
+print(classify_face("test/test.jpg"))
+# print(classify_face("test/steve_frn.jpg"))
