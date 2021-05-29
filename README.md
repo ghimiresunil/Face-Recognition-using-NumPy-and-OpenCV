@@ -6,7 +6,13 @@ Today, we have come up with a new python tutorial to build a face recognition pr
 
 <b><i> Note: You just need to install a C++ compiler on your computer. You can download the C++  compiler while installing the Visual Studio Community version. </i></b>
 
+## Steps involved to run project: 
 
+* Install the Python modules which are specified in <code> requirements.txt</code>
+* Within the root directory, there is the folder named <code> faces </code> which includes all the known faces, and that will be how faces of people are recognized and detected by the system.
+* Within the root directory, there is the folder named <code> test </code> where you can place your own images in which faces are recognized and detected.
+* The final step is to run the python script named <code>face_rec.py</code>.
+* At last, Press </code>'q’</code> to exit the program
 Face Recognition using opencv <br>
 Just download the repository and unzip the file. <br>
 Enjoy with face recognition. <br>
