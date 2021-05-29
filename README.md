@@ -1,4 +1,4 @@
-# Face recognition python
+# Face recognition using OpenCV and NumPy
 
 ## Introduction:
 
@@ -30,3 +30,8 @@ It is not a simple task to detect and recognize the name of a person through ima
 * Save the images in the database.
 * Improve the user interface of the system.
 * Live detect of the face by opening webcam and camera.
+
+That’s all.
+Hope you got idea on face detection using OpenCV and NumPY.
+You may be interested to read see yourself in detecting your face using OpenCv and NumPy.
+Thanks for reading.
