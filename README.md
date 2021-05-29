@@ -17,6 +17,14 @@ Face Recognition using opencv <br>
 Just download the repository and unzip the file. <br>
 Enjoy with face recognition. <br>
 
-![image](/uploads/0ea3a7dc0123235053fe6a5c15a848f8/image.jpg)
+## Personal Opinion
 
-<h2> Feel free to play with Tkinter and Turtle . If you have a crazy idea, then pull request ☺ </h2>
+It is not a simple task to detect and recognize the name of a person through images. The actual work is not easy, although it looks simple. We have got a variety of algorithms and models while researching and studying different papers. There was a huge doubt as to whether it would be complete or not while pursuing this project i.e. “Face Recognition and Detection”. This project has been successful as it was expected. Additional features like an explanation of look were added for better performance to identify the detect and recognize the name of the person. Time management was one of the challenging jobs because of the late completion of the project. However, information from different sources like reports, conferences, and books help us complete this project. The project was completed successfully due to numerous resources and libraries used.
+
+## Future plans
+
+* Deploy program on web and camera.
+* Use a large number of images for <code>Face Detection and Recognize</code>.
+* Save the images in the database.
+* Improve the user interface of the system.
+* Live detect of the face by opening webcam and camera.
