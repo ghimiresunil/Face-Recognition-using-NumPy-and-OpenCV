@@ -31,7 +31,7 @@ It is not a simple task to detect and recognize the name of a person through ima
 * Improve the user interface of the system.
 * Live detect of the face by opening webcam and camera.
 
-That’s all.
-Hope you got idea on face detection using OpenCV and NumPY.
-You may be interested to read see yourself in detecting your face using OpenCv and NumPy.
-Thanks for reading.
+That’s all. <br>
+Hope you got idea on face detection using OpenCV and NumPy. <br>
+You may be interested to read see yourself in detecting your face using OpenCv and NumPy. <br>
+Thanks for reading. <br>
